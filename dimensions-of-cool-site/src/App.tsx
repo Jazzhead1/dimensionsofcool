@@ -77,7 +77,7 @@ export default function App() {
       name: "Simon McDowell",
       role: "Drummer",
       img: "/images/member3.jpg",
-      bio: "Simon McDowell has more than 20 years of gigging experience and was tutored by Frank Gibson. He studied at MAINZ and delivers precision, energy, and a polished rhythmic backbone that drives the band live.",
+      bio: "Simon McDowell has more than 20 years of gigging experience and was tutored by Frank Gibson and Paul Russel ( Super Groove, Eight, Midwave Breaks ) Simon delivers precision, energy, and a polished rhythmic backbone that drives the band live.",
     },
     {
       name: "Kat McCormack",
